@@ -2,7 +2,7 @@
   "name": "portfoliowebsite",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://kakhilreddy.github.io/",
+  "homepage": "https://kakhilreddy.github.io/portfolio",
   "dependencies": {
     "@material-ui/core": "^4.6.0",
     "gh-pages": "^2.1.1",
